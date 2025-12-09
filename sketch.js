@@ -6,7 +6,8 @@ function setup() {
 function draw() {
     noStroke();
    fill('white');
-    ellipse(mouseX, mouseY, 5);
+    rect(mouseX, mouseY, 5,4);
+
 }
 
 function mouseClicked(){
