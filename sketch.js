@@ -1,6 +1,6 @@
 function setup() {
     createCanvas(400, 400);
-    background(0);
+    background(255,0,0);
 }
 
 function draw() {
@@ -10,7 +10,7 @@ function draw() {
 }
 
 function mouseClicked(){
-    background(0);
+    background(255,0,0);
 }
 
 //person 2 please change the background colour
